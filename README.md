@@ -9,7 +9,7 @@
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
 
-Example code for "Get started tutorial" in Expo documentation.
+StickerSmash is an example project from the "Get Started" tutorial in the Expo documentation. This app demonstrates basic functionality and setup for an Expo-based project.
 
 ## 🚀 How to use
 
